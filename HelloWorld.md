@@ -7,3 +7,9 @@
 - the other
 - list
 - style
+- looks similar
+- so only one style available in GitHub
+- good to know?
+
+
+Or doesn't it make a difference at all?
